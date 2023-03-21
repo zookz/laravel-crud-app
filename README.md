@@ -6,7 +6,7 @@ Create PHP Laravel 8 CRUD web application with MySQL Database.
 
 ## Run on Google Cloud Run
 
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/geshan/laravel-crud-app.git)
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/zookz/laravel-crud-app.git)
 
 ## Run with Laravel sail
 
